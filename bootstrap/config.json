@@ -1,0 +1,20 @@
+{
+  "vars": {},
+  "css": [
+    "forms.less",
+    "buttons.less",
+    "button-groups.less",
+    "navs.less",
+    "breadcrumbs.less",
+    "dropdowns.less"
+  ],
+  "js": [
+    "button.js",
+    "dropdown.js",
+    "tab.js",
+    "affix.js",
+    "collapse.js",
+    "scrollspy.js",
+    "transition.js"
+  ]
+}
